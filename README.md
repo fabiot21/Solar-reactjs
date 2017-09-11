@@ -1,1 +1,1 @@
-# Solar-reactjs
+# Solar React JS
